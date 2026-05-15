@@ -5,7 +5,7 @@
 
 Detectivus AI is a next-generation Open-Source Intelligence (OSINT) and digital forensics platform designed for automated threat intelligence, identity verification, and B2B due diligence. 
 
-🌐 **Official Platform:** [Detectivus AI Platform](https://www.tvojdomen.com)
+🌐 **Official Platform:** [Detectivus AI Platform](https://www.detectivus.com)
 
 ## System Architecture
 
